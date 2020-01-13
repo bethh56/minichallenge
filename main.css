@@ -1,8 +1,10 @@
 #aboutMe{
+    width: 50%;
     background-color: honeydew;
     margin: 50px;
     text-align: center;
     font-size: large;
+    position: relative;
 }
 
 body {
@@ -15,4 +17,12 @@ img {
 }
 footer{
     text-align: right;
+}
+
+#dino {
+    width: 50%;
+    background-color: honeydew;
+    margin: 50px;
+    text-align: center;
+    font-size: large;
 }
