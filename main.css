@@ -1,3 +1,18 @@
+#aboutMe{
+    background-color: honeydew;
+    margin: 50px;
+    text-align: center;
+    font-size: large;
+}
+
 body {
-    background-color: darkslategray;
+    background-color: lightslategrey;
+}
+
+img {
+    width: 50%;
+    height: auto;
+}
+footer{
+    text-align: right;
 }
